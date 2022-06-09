@@ -9,7 +9,7 @@ const Home = () => {
       <div className="flex justify-center ">
         <img
           alt="akmal.jpg"
-          src={IMGAkmal}
+          src="https://storage.googleapis.com/assets_akmal/assets/img/akmal.jpg"
           className="w-52 rounded-full my-4"
         />
       </div>

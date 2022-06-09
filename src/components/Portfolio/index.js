@@ -6,7 +6,7 @@ const Portfolio = () => {
     <div className="text-black h-96 w-full p-10 justify-around flex flex-col text-justify bg-white">
       <div className="max-w-[1240px] mx-auto grid grid-cols-3 md:grid-span-3 gap-8 xs:overflow-x-auto">
         <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300">
-          <img src={Project1} alt="/" className="w-1/2 mx-auto bg-white" />
+          <img src="https://storage.googleapis.com/assets_akmal/assets/img/project-1.png" alt="/" className="w-1/2 mx-auto bg-white" />
           <h2 className="text-l font-bold py-4 text-[#00df9a] text-center">
             Project 1
           </h2>
@@ -24,7 +24,7 @@ const Portfolio = () => {
           </div>
         </div>
         <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300">
-          <img src={Project1} alt="/" className="w-1/2 mx-auto bg-white" />
+          <img src="https://storage.googleapis.com/assets_akmal/assets/img/project-1.png" alt="/" className="w-1/2 mx-auto bg-white" />
           <h2 className="text-l font-bold py-4 text-[#00df9a] text-center">
             Project 2
           </h2>
@@ -39,7 +39,7 @@ const Portfolio = () => {
           </div>
         </div>
         <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300">
-          <img src={Project1} alt="/" className="w-1/2 mx-auto bg-white" />
+          <img src="https://storage.googleapis.com/assets_akmal/assets/img/project-1.png" alt="/" className="w-1/2 mx-auto bg-white" />
           <h2 className="text-l font-bold py-4 text-[#00df9a] text-center">
             Project 3
           </h2>
